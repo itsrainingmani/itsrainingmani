@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![splashy](https://github.com/itsrainingmani/itsrainingmani/blob/master/big-ole-splash.jpg)
+![splashy](https://github.com/itsrainingmani/itsrainingmani/blob/main/big-ole-splash.jpg)
 
 <!--
 **itsrainingmani/itsrainingmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
