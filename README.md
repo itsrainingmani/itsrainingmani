@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![splashy](big-ole-splash.jpg)
+
 <!--
 **itsrainingmani/itsrainingmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to this *README* that is currently devoid of substance.
+
+Feast your 👁️👁️ on this Splash Image that is high in resolution and color, yet conveys no information.
