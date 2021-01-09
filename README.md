@@ -1,4 +1,14 @@
-### 🚧 Under Construction 🚧
+# Hi there 👋🏼
+
+Welcome to my profile where I am doing things with code.
+
+Feel free to poke around and sift through.
+
+🔭 I’m currently working on catching up with some Advent of Code problems, trying to re-learn math and just kinda building whatever catches my fancy.
+
+⚡ Fun fact: Open up a Python IDLE and type in `import antigravity`
+
+*P.S Future Digital Archaelogists - I'm sorry for not adding more comments*
 
 <!-- ![splashy](https://github.com/itsrainingmani/itsrainingmani/blob/main/big-ole-splash.jpg) -->
 
