@@ -2,9 +2,17 @@
 
 Welcome to my profile where I am doing things with code. Feel free to poke around and sift through.
 
-🔭 I'm currently re-learning Rust through the Rust Adventure course by [@partycorgi](https://github.com/ChristopherBiscardi) and trying to polish up some of my older projects.
+🔭 Things I am currently working on/learning - 
+ - The Rust Adventure course by [@partycorgi](https://github.com/ChristopherBiscardi) and trying to polish up some of my older projects
+ - Chapter [20](http://craftinginterpreters.com/hash-tables.html) of [Crafting Interpreters](http://craftinginterpreters.com)
+ - [Rust Atomics and Locks](https://marabos.nl/atomics/)
+ - Trying to figure out my next open-source project to contribute to
 
 ⚡ Fun fact: Open up a Python IDLE and type in `import antigravity`
+
+📫 How to reach me:
+- [@itsrainingmani](https://twitter.com/itsrainingmani) on Twitter
+- [@mani](https://www.polywork.com/mani) on Polywork
 
 *P.S Future Digital Archaelogists - I'm sorry for not adding more comments*
 
