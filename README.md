@@ -4,7 +4,7 @@ Welcome to my profile where I am doing things with code. Feel free to poke aroun
 
 🔭 Things I am currently working on/learning - 
  - Building an [OpenAI API Wrapper in Rust](https://github.com/itsrainingmani/openai-rust)
- - The Rust Adventure course by [@partycorgi](https://github.com/ChristopherBiscardi) and trying to polish up some of my older projects
+ - The Rust Adventure course by [@partycorgi](https://github.com/ChristopherBiscardi)
  - Chapter [21 - Global Variables](http://craftinginterpreters.com/global-variables.html) of [Crafting Interpreters](http://craftinginterpreters.com)
  - [Rust Atomics and Locks](https://marabos.nl/atomics/)
  - Polishing up some old projects
