@@ -4,16 +4,20 @@ Welcome to my profile where I am doing things with code. Feel free to poke aroun
 
 🔭 Things I am currently working on/learning - 
  - Building an [OpenAI API Wrapper in Rust](https://github.com/itsrainingmani/openai-rust)
- - The Rust Adventure course by [@partycorgi](https://github.com/ChristopherBiscardi)
  - Chapter [21 - Global Variables](http://craftinginterpreters.com/global-variables.html) of [Crafting Interpreters](http://craftinginterpreters.com)
- - [Rust Atomics and Locks](https://marabos.nl/atomics/)
- - Polishing up some old projects
+ - [Rust Atomics and Locks](https://marabos.nl/atomics/) by [Mara Bos](https://github.com/m-ou-se)
+ - Expanding the [Catscii](https://rough-morning-1147.fly.dev) Web Service built using Rust & Nix from [@fasterthanlime](https://github.com/fasterthanlime)'s [series](https://fasterthanli.me/series/building-a-rust-service-with-nix)
 
-⚡ Fun fact: Open up a Python IDLE and type in `import antigravity`
+📽 Polishing Projects
+- [Brainfuck Interpreter](https://github.com/itsrainingmani/brainfuck-py)
+- [ULID generator](https://github.com/itsrainingmani/py-ulid)
 
 📫 How to reach me:
 - [@itsrainingmani](https://twitter.com/itsrainingmani) on Twitter
 - [@mani](https://www.polywork.com/mani) on Polywork
+- [@itsrainingmani](https://replit.com/itsrainingmani) on Replit
+
+⚡ Fun fact: Open up a Python IDLE and type in `import antigravity`
 
 *P.S Future Digital Archaeologists - I'm sorry for not adding more comments*
 
