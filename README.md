@@ -14,8 +14,8 @@ Welcome to my profile where I am doing things with code. Feel free to poke aroun
 
 📫 How to reach me:
 - [@itsrainingmani](https://twitter.com/itsrainingmani) on Twitter
-- [@mani](https://www.polywork.com/mani) on Polywork
-- [@itsrainingmani](https://replit.com/itsrainingmani) on Replit
+- [@itsrainingmani](https://replit.com/@itsrainingmani) on Replit
+- [LinkedIn](https://linkedin.com/in/mtiruman)
 
 ⚡ Fun fact: Open up a Python IDLE and type in `import antigravity`
 
