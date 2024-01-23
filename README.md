@@ -1,15 +1,14 @@
 # Hi there 👋🏼
 
 Welcome to my profile where I am doing things with code. Feel free to poke around and sift through.
+I'm currently a part of the Winter 2 2024 batch at Recurse Center.
 
 🔭 Things I am currently working on/learning - 
- - Building an [OpenAI API Wrapper in Rust](https://github.com/itsrainingmani/openai-rust)
- - Chapter [21 - Global Variables](http://craftinginterpreters.com/global-variables.html) of [Crafting Interpreters](http://craftinginterpreters.com)
- - Bresson - An EXIF metadata analysis | processing tool
+ - [Bresson](https://github.com/itsrainingmani/bresson) - A TUI based EXIF metadata editor
+ - [Crafting Interpreters](http://craftinginterpreters.com) in TypeScript
+ - [SoundWave](https://github.com/itsrainingmani/soundwave) - Sound based Gesture Recognition in Rust
+ - Neural Networks (Zero to Hero) by Andrej Karpathy
  - Redesigning my personal [website](https://itsrainingmani.dev)
-
-📽 Polishing Projects
-- [Pomodoro CLI](https://github.com/itsrainingmani/)
 
 📫 How to reach me:
 - [@itsrainingmani](https://twitter.com/itsrainingmani) on Twitter
