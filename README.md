@@ -1,7 +1,8 @@
 # Hi there 👋🏼
 
 Welcome to my profile where I am doing things with code. Feel free to poke around and sift through.
-I'm currently a part of the Winter 2 2024 batch at Recurse Center.
+
+I'm currently a part of the Winter 2, 2024 batch at [Recurse Center](https://recurse.com) where I am exploring Rust and building fun programs!
 
 🔭 Things I am currently working on/learning - 
  - [Bresson](https://github.com/itsrainingmani/bresson) - A TUI based EXIF metadata editor
