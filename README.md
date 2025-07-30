@@ -7,8 +7,11 @@ I was most recently a part of the Winter 2, 2024 batch at [Recurse Center](https
 🔭 Currently experimenting with - 
  - [Jeopardle](https://jeopardle.app) - Infinite Jeopardy in your browser 🧩
  - [Bresson](https://github.com/itsrainingmani/bresson) - A lightweight photo metadata editor/cleaner in your Terminal!
- - [SyncAlarm](https://github.com/itsrainingmani/SyncAlarm) - iOS App that syncs alarms between your iPhone and Apple Watch
  - [Tailnode](https://github.com/itsrainingmani/tailnode) - Terminal Interface for managing Tailscale+Mullvad VPN Exit Nodes
+ - [Tailshot](https://github.com/itsrainingmani/tailshot) - Browser Extension for sending images between Tailscale devices
+
+🛠️ Maintaining
+- [opencode-chocolatey](https://github.com/itsrainingmani/opencode-chocolatey) - Chocolatey Community Package for opencode TUI
 
 📫 Contact me via:
 - [@itsrainingmani](https://twitter.com/itsrainingmani) on 🐦
